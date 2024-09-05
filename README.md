@@ -23,20 +23,20 @@ SNo | Language | Link |
 
 SNo | Topic | Link | Date Completed |
 ----|-------|------|----------------|
-1 | What is OOP ? | [view](https://www.w3schools.com/cpp/cpp_oop.asp) | not done |
-2 | How OOP is related to real world ? | [view](https://medium.com/@kkajasu/object-oriented-programming-with-real-world-example-63f69f917d62) | not done |
-3 | Why to study OOPs ? | [view](https://www.c-sharpcorner.com/forums/why-we-need-oops-in-programming-language) | not done |
-4 | Limitations of OOPs | [view](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/02/CS101-2.1.2-AdvantagesDisadvantagesOfOOP-FINAL.pdf) | not done |
-5 | When we say that "X" language is object oriented programming language, then what does we mean by that ? | homework | not done |
+1 | What is OOP ? | [view](https://www.w3schools.com/cpp/cpp_oop.asp) | done |
+2 | How OOP is related to real world ? | [view](https://medium.com/@kkajasu/object-oriented-programming-with-real-world-example-63f69f917d62) | done |
+3 | Why to study OOPs ? | [view](https://www.c-sharpcorner.com/forums/why-we-need-oops-in-programming-language) | done |
+4 | Limitations of OOPs | [view](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/02/CS101-2.1.2-AdvantagesDisadvantagesOfOOP-FINAL.pdf) | done |
+5 | When we say that "X" language is object oriented programming language, then what does we mean by that ? | homework | done |
 
 ## Classes
 
 SNo | Topic | Link | Date Completed |
 ----|-------|------|----------------|
-1 | Difference between Structure and Class | [view](https://www.geeksforgeeks.org/structure-vs-class-in-cpp/) | not done |
-2 | Similarities between Structure and Class | [view](https://practice.geeksforgeeks.org/problems/what-are-similarities-between-a-class-and-a-structure) | not done |
+1 | Difference between Structure and Class | [view](https://www.geeksforgeeks.org/structure-vs-class-in-cpp/) | done |
+2 | Similarities between Structure and Class | [view](https://practice.geeksforgeeks.org/problems/what-are-similarities-between-a-class-and-a-structure) | done |
 3 | When to use Structure over Class | homework | not done | 
-4 | Access Modifiers | [view](https://www.javatpoint.com/access-modifiers) | not done |
+4 | Access Modifiers | [view](https://www.javatpoint.com/access-modifiers) | done |
 5 | Member Function | [view](https://www.studytonight.com/cpp/types-of-member-function.php) | not done |
 6 | Constructor | [view](https://www.geeksforgeeks.org/constructors-c/) | not done |
 7 | Destructor | [view](https://www.geeksforgeeks.org/destructors-c/) | not done |
